@@ -1,0 +1,10 @@
+THEME,SINGULAR,PLURAL,SINGULAR_SHORT,PLURAL_SHORT,CATEGORY,PLURAL_URL
+default,Hotel,Hotel,,,property_type
+apartment,Appartamento,Appartamenti,,,property_type
+bed_and_breakfast,B&B,Bed_&_Breakfast,,,property_type
+condo,Appartamento,Appartamenti,,,property_type
+hotel,Hotel,Hotel,,,property_type
+hostel,Ostello,Ostelli,,,property_type
+motel,Motel,Motel,,,property_type
+resort,Resort,Resort,,,property_type
+villa,Villa,Ville,,,property_type

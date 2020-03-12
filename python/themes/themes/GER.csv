@@ -1,0 +1,456 @@
+THEME,SINGULAR,PLURAL,SINGULAR_SHORT,PLURAL_SHORT,CATEGORY,PLURAL_URL
+default,Hotel,Hotels,Hotel,Hotels,property_type,Hotels
+1star,1-Sterne-Hotel,1-Sterne-Hotels,Hotel,Hotels,property_type,1_Sterne_Hotels
+2star,2-Sterne-Hotel,2-Sterne-Hotels,Hotel,Hotels,property_type,2_Sterne_Hotels
+3star,3-Sterne-Hotel,3-Sterne-Hotels,Hotel,Hotels,property_type,3_Sterne_Hotels
+4star,4-Sterne-Hotel,4-Sterne-Hotels,Hotel,Hotels,property_type,4_Sterne_Hotels
+5star,5-Sterne-Hotel,5-Sterne-Hotels,Hotel,Hotels,property_type,5_Sterne_Hotels
+1_star,1-Sterne-Hotel,1-Sterne-Hotels,Hotel,Hotels,property_type,1_Sterne_Hotels
+2_star,2-Sterne-Hotel,2-Sterne-Hotels,Hotel,Hotels,property_type,2_Sterne_Hotels
+3_star,3-Sterne-Hotel,3-Sterne-Hotels,Hotel,Hotels,property_type,3_Sterne_Hotels
+4_star,4-Sterne-Hotel,4-Sterne-Hotels,Hotel,Hotels,property_type,4_Sterne_Hotels
+5_star,5-Sterne-Hotel,5-Sterne-Hotels,Hotel,Hotels,property_type,5_Sterne_Hotels
+5star|hotel|nearme,5-Sterne-Hotel in der Umgebung,5-Sterne-Hotels in der Umgebung,Hotel,Hotels,property_type,5SterneHotelsUmgebung
+accessible,Barrierefreies Hotel,Barrierefreie Hotels,Hotel,Hotels,property_type,Barrierefrei
+accommodation|coupon,Unterkunft Gutschein,Unterkunft Gutscheine,Unterkunft,Unterkunft,property_type,Unt_Gutscheine
+accommodation|deal,Angebot für Unterkunft,Angebote für Unterkunft,Unterkunft,Unterkunft,property_type,UnterkAngebote
+accommodation|discount,Unterkunft Rabatt,Unterkunft Rabatte,Unterkunft,Unterkunft,property_type,UnterkunftRab
+accommodation,Unterkunft,Unterkunft,Unterkunft,Unterkunft,property_type,Unterkunft
+accomodation,Unterkunft,Unterkunft,Unterkunft,Unterkunft,property_type,Unterkunft
+accommodation|near,Unterkunft,Unterkunft,Unterkunft,Unterkunft,property_type,Unterkunft
+accommodation|nearme,Unterkunft in der Nähe,Unterkunft in der Nähe,Unterkunft,Unterkunft,property_type,Unterkunft
+accommodation|booking,Unterkunft,Unterkunft,Unterkunft,Unterkunft,property_type,Unterkunft
+adultonly,Kinderfreies Hotel,Kinderfreie Hotels,Hotel,Hotels,property_type,KinderfreiHotel
+affordable|allinclusive|resort,Günstiges All-inclusive-Resort,Günstige All-inclusive-Resorts,Resort,Resorts,property_type,GünsAllInResort
+accommodation|affordable,Günstige Unterkunft,Günstige Unterkunft,Unterkunft,Unterkunft,property_type,Günstig_Unterk
+affordable,Günstiges Hotel,Günstige Hotels,Hotel,Hotels,property_type,GünstigesHotel
+agrotourist,Agrartourismushotel,Agrartourismushotels,Hotel,Hotels,property_type,Agrartourismus
+accommodation|airport,Unterkunft,Unterkunft,Unterkunft,Unterkunft,property_type,Flughafen
+airport|hotel,Flughafenhotel,Flughafenhotels,Hotel,Hotels,property_type,Flughafen_Hotel
+freeairporttransportation,Hotel mit kostenlosem Flughafentransfer,Hotels mit kostenlosem Flughafentransfer,Hotel,Hotels,property_type,Flughafen_Trans
+albergo,Albergo,Albergos,Albergo,Albergos,property_type,Albergos
+accommodation|allinclusive,All-inclusive-Unterkunft ,All-inclusive-Unterkunft,Unterkunft,Unterkunft,property_type,All_Incl_Hotels
+allinclusive,All-inclusive-Hotel,All-inclusive-Hotels,Hotel,Hotels,property_type,All_Incl_Hotels
+all_inclusive,All-inclusive Hotel,All-inclusive Hotels,Hotel,Hotels,property_type,All_Incl_Hotels
+all_inclusives,All-inclusive-Hotel,All-inclusive-Hotels,Hotel,Hotels,property_type,All_Incl_Hotels
+allinclusive|hotel,All-inclusive-Hotel,All-inclusive-Hotels,Hotel,Hotels,property_type,All_Incl_Hotels
+all_inclusive|hotel,All-inclusive-Hotel,All-inclusive-Hotels,Hotel,Hotels,property_type,All_Incl_Hotels
+hotel_all_inclusive,All-inclusive-Hotel,All-inclusive Hotels,Hotel,Hotels,property_type,All_Incl_Hotels
+all_inclusive_hotel,All-inclusive Hotel,All-inclusive-Hotels,Hotel,Hotels,property_type,All_Incl_Hotels
+allinclusive|resort,All-inclusive-Resort,All-inclusive-Resorts,Resort,Resorts,property_type,All_Incl_Resort
+all_inclusive|resort,All-inclusive-Resort,All-inclusive-Resorts,Resort,Resorts,property_type,All_Incl_Resort
+all_inclusive_resort,All-inclusive-Resort,All-inclusive-Resorts,Resort,Resorts,property_type,All_Incl_Resort
+resort_all_inclusive,All-inclusive-Resort,All-inclusive-Resorts,Resort,Resorts,property_type,All_Incl_Resort
+allinclusive|couple|resort,All-inclusive-Resort,All-inclusive-Resorts für Paare,Resort,Resorts,property_type,All_Incl_Resort
+allinclusive|familyfriendly|resort,Familienfreundliches All-inclusive-Resort,Familienfreundliche All-inclusive-Resorts,Resort,Resorts,property_type,FamAllIncResort
+allinclusive|honeymoon|resort,All-inclusive Flitterwochen-Resort,All-inclusive Flitterwochen-Resorts,Resort,Resorts,property_type,All_Incl_Resort
+anniversary,Hotel zum Feiern von Jahrestagen,Hotels zum Feiern von Jahrestagen,Hotel,Hotels,property_type,Jahrestage
+aparthotel,Aparthotel,Aparthotels,Aparthotel,Aparthotels,property_type,Aparthotels
+aparthotels,Aparthotel,Aparthotels,Aparthotel,Aparthotels,property_type,Aparthotels
+apartment,Apartment,Apartments,Apartment,Apartments,property_type,Apartments
+archaeology,Hotel in der Nähe von Ausgrabungsstätten,Hotels in der Nähe von Ausgrabungsstätten,Hotel,Hotels,property_type,Archäologisches
+backpacker,Backpacker-Hotel,Backpacker-Hotels,Hotel,Hotels,property_type,Backpack_Hotels
+bargain,Schnäppchenhotel,Schnäppchenhotels,Hotel,Hotels,property_type,Hotels
+accommodation|bargain,Schnäppchen bei Unterkunft,Schnäppchen bei Unterkunft,Unterkunft,Unterkünfte,property_type,Schnäppchen
+beach,Strandhotel,Strandhotels,Hotel,Hotels,property_type,Strandhotel
+bedbreakfast,Bed and Breakfast,Bed and Breakfasts,Bed and Breakfast,Bed and Breakfasts,property_type,BedandBreakfast
+bed_breakfast,Bed and Breakfast,Bed and Breakfasts,Bed and Breakfast,Bed and Breakfasts,property_type,BedandBreakfast
+bandb,Bed and Breakfast,Bed and Breakfasts,Bed and Breakfast,Bed and Breakfasts,property_type,BedandBreakfast
+best|hotel,Bestes Hotel,Beste Hotels,Hotel,Hotels,property_type,Best_Hotels
+best|deal|hotel,Bestes Hotelangebot,Beste Hotelangebote,Hotel,Hotels,property_type,Hotelangebote
+blacksandbeach,Hotel in der Nähe von schwarzen Sandstränden,Hotels in der Nähe von schwarzen Sandstränden,Hotel,Hotels,property_type,SchwarzerStrand
+boutique,Boutique-Hotel,Boutique-Hotels,Hotel,Hotels,property_type,Boutique_Hotels
+accommodation|budget,Billige Unterkunft,Billige Unterkunft,Unterkunft,Unterkunft,property_type,Billig_Unterk
+budget,Billiges Hotel,Billige Hotels,Hotel,Hotels,property_type,Billige_Hotels
+budget|hotel,Billiges Hotel,Billige Hotels,Hotel,Hotels,property_type,Billige_Hotels
+cabin,Ferienhütte,Ferienhütten,Ferienhütte,Ferienhütten,property_type,Ferienhütten
+camping,Campingplatz,Campingplatz,Campingplatz,Campingplatz,property_type,Camping
+capsule,Kapselhotel,Kapselhotels,Hotel,Hotels,property_type,Kapselhotels
+caravanpark,Caravanpark,Caravanparks,Caravanpark,Caravanparks,property_type,Caravanparks
+casino,Casino-Hotel,Casino-Hotels,Hotel,Hotels,property_type,Casino_Hotels
+central,Zentrales Hotel,Zentrale Hotels,Hotel,Hotels,property_type,Zentrale_Hotels
+chain,Hotel der Kette,Hotels der Kette,Hotel,Hotels,property_type,Hotels_Kette
+chalet,Chalet,Chalets,Chalet,Chalets,property_type,Chalets
+accommodation|cheap,Günstige Unterkunft,Günstige Unterkunft,Unterkunft,Unterkunft,property_type,Günstig_Unterk
+cheap,Günstiges Hotel,Günstige Hotels,Hotel,Hotels,property_type,Günstige_Hotels
+hotel_cheap,Günstiges Hotel,Günstige Hotels,Hotel,Hotels,property_type,Günstige_Hotels
+cheap|hotel,Günstiges Hotel,Günstige Hotels,Hotel,Hotels,property_type,Günstige_Hotels
+cheap|hotel|near,Günstiges Hotel in meiner Nähe,Günstige Hotels in meiner Nähe,Hotel,Hotels,property_type,Günstige_Hotels
+cheap|resort,Günstiges Resort,Günstige Resorts,Resort,Resorts,property_type,Günstig_Resorts
+cheapest|hotel,Billigstes Hotel,Billigste Hotels,Hotel,Hotels,property_type,Billigst_Hotels
+accommodation|cheapest,Billigste Unterkunft,Billigste Unterkunft,Unterkunft,Unterkunft,property_type,BilligsteUnter
+cheap|deal|hotel,Günstiges Hotelangebot,Günstige Hotelangebote,Hotel,Hotels,property_type,Hotelangebote
+cheap|hotel|nearme,Günstiges Hotel in der Umgebung,Günstige Hotels in der Umgebung,Hotel,Hotels,property_type,Günstige_Hotels
+cheap|hotel|suites,Günstige Hotelsuite,Günstige Hotelsuites,Hotelsuite,Hotelsuites,property_type,Hotelsuite
+cheap|hotel|nearme|suites,Günstige Hotelsuite in der Umgebung,Günstige Hotelsuites in der Umgebung,Hotelsuite,Hotelsuites,property_type,Hotelsuites
+accommodation|cheap|lastminute,Günstige Last Minute-Unterkunft,Günstige Last Minute-Unterkunft,Unterkunft,Unterkunft,property_type,GünstLastMinUnt
+cheap|hotel|lastminute,Günstiges Last Minute-Hotel,Günstige Last Minute-Hotels,Hotel,Hotels,property_type,GünstLastMinHot
+clean,Sauberes Hotel,Saubere Hotels,Hotel,Hotels,property_type,Saubere_Hotels
+clearwaterbeach,Hotel nahe Strand mit klarem Wasser,Hotels nahe Strand mit klarem Wasser,Hotel,Hotels,property_type,StrandKlarWass
+clubhouse,Clubhaus,Clubhäuser,Clubhaus,Clubhäuser,property_type,Clubhäuser
+condo,Apartmenthotel,Apartmenthotels,Apartmenthotel,Apartmenthotels,property_type,Apartmenthotels
+connectingrooms,Hotel mit Verbindungszimmer,Hotels mit Verbindungszimmer,Hotel,Hotels,property_type,Verbindungszimmer
+cottage,Ferienhaus,Cottages,Ferienhaus,Cottages,property_type,Cottages
+countryhouse,Landhaus,Landhäuser,Landhaus,Landhäuser,property_type,Landhäuser
+countryside,Hotel auf dem Land,Hotels auf dem Land,Hotel,Hotels,property_type,Land
+crosscountryskiing,Hotel mit Skilanglauf in der Umgebung,Hotels mit Skilanglauf in der Umgebung,Hotel,Hotels,property_type,Skilanglauf
+deal|hotel|secluded,Angebot für abgelegene Hotels,Angebote für abgelegene Hotels,Hotel,Hotels,property_type,Angebot_Hotel
+discount|hotel|suites,Rabatt auf Hotelsuites,Rabatte auf Hotelsuites,Hotelsuite,Hotelsuites,property_type,RabHotelsuites
+dormitory,Schlafsaal,Schlafsäle,Schlafsaal,Schlafsäle,property_type,Schlafsäle
+earlycheckin,Hotel mit frühem Check-in,Hotels mit frühem Check-in,Hotel,Hotels,property_type,Früher_Check_In
+ecofriendly,Umweltfreundliches Hotel,Umweltfreundliche Hotels,Hotel,Hotels,property_type,UmweltHotels
+eventfriendly,Hotel für erfolgreiche Veranstaltungen,Hotels für erfolgreiche Veranstaltungen,Hotel,Hotels,property_type,Veranstaltungen
+extendedstay,Hotel für längere Aufenthalte,Hotels für längere Aufenthalte,Hotel,Hotels,property_type,Hotels
+extended_stay,Hotel für längere Aufenthalte,Hotels für längere Aufenthalte,Hotel,Hotels,property_type,Hotels
+accommodation|familyfriendly,Familienfreundliche Unterkunft,Familienfreundliche Unterkünfte,Unterkunft,Unterkünfte,property_type,Familien_Unterk
+familyfriendly,Familienfreundliches Hotel,Familienfreundliche Hotels,Hotel,Hotels,property_type,Familienhotels
+kidfriendly,Kinderfreundliches Hotel,Kinderfreundliche Hotels,Hotel,Hotels,property_type,Familienhotels
+familyfriendly|hotel,Familienfreundliches Hotel,Familienfreundliche Hotels,Hotel,Hotels,property_type,Familienhotels
+farmstay,Bauernhof,Bauernhöfe,Bauernhof,Bauernhöfe,property_type,Bauernhöfe
+flat,Wohnung,Wohnungen,Wohnung,Wohnungen,property_type,Wohnungen
+glamping,Glamping,Glamping,Glamping,Glamping,property_type,Glamping
+guesthouse,Pension,Pensionen,Pension,Pensionen,property_type,Pensionen
+healthclub,Hotel mit Fitnesscenter,Hotels mit Fitnesscenter,Hotel,Hotels,property_type,Fitnesscenter
+historical,Historisches Hotel,Historische Hotels,Hotel,Hotels,property_type,HistorischHotel
+homestay,Privatunterkunft,Privatunterkünfte,Privatunterkunft,Privatunterkünfte,property_type,Privatunterkünfte
+honeymoon,Flitterwochen-Hotel,Flitterwochen-Hotels,Hotel,Hotels,property_type,Flitterwochen
+hostel,Hostel,Hostel,Hostel,Hostel,property_type,Hostel
+adventure,Hotel für Abenteuerlustige,Hotels für Abenteuerlustige,Hotel,Hotels,property_type,Hotel_Abenteuer
+airporttransportation,Hotel mit Flughafentransfer,Hotels mit Flughafentransfer,Hotel,Hotels,property_type,Hotel_Flug_Tran
+aquarium,Hotel mit Aquarium in der Umgebung,Hotels mit Aquarien in der Umgebung,Hotel,Hotels,property_type,Hotel_Aquarium
+arcade,Hotel mit Spielhalle in der Umgebung,Hotels mit Spielhallen in der Umgebung,Hotel,Hotels,property_type,Hotel_Spielhall
+architecture,Architektonisch bemerkenswertes Hotel,Architektonisch bemerkenswerte Hotels ,Hotel,Hotels,property_type,Hotel_Architekt
+birdwatching,Hotel mit Vogelbeobachtung in der Umgebung,Hotels mit Vogelbeobachtung in der Umgebung,Hotel,Hotels,property_type,Hotel_Vogelbeob
+breakfast,Hotel mit Frühstück,Hotels mit Frühstück,Hotel,Hotels,property_type,Hotel_Frühstück
+freebreakfast,Hotel mit kostenlosem Frühstück,Hotels mit kostenlosem Frühstück,Hotel,Hotels,property_type,Hotel_Frühstück
+catering,Hotel mit Catering,Hotels mit Catering,Hotel,Hotels,property_type,Hotel_Catering
+babysitting,Hotel mit Babysitter,Hotels mit Babysitter,Hotel,Hotels,property_type,HotelBabysitter
+chocolate,Hotel mit Chocolaterien in der Umgebung,Hotels mit Chocolaterien in der Umgebung,Hotel,Hotels,property_type,Hotel_Schokolad
+christmas,Hotel für die Weihnachtszeit,Hotels für die Weihnachtszeit,Hotel,Hotels,property_type,Hotel_Weihnacht
+concierge,Hotel mit Concierge,Hotels mit Concierge,Hotel,Hotels,property_type,Hotel_Concierge
+coupon|hotel,Hotelgutschein,Hotelgutscheine,Hotel,Hotels,property_type,Hotelgutscheine
+deal,Hotelangebot,Hotelangebote,Hotel,Hotels,property_type,Hotel_Angebote
+deals,Hotelangebot,Hotelangebote,Hotel,Hotels,property_type,Hotel_Angebote
+hotel_deal,Hotelangebot,Hotelangebote,Hotel,Hotels,property_type,Hotel_Angebote
+deal|hotel,Hotelangebot,Hotelangebote,Hotel,Hotels,property_type,Hotel_Angebote
+discount,Hotelrabatt,Hotelrabatte,Hotel,Hotels,property_type,Hotel_Rabatt
+discount|hotel,Hotelrabatt,Hotelrabatte,Hotel,Hotels,property_type,Hotel_Rabatt
+entertainment,Hotel mit Freizeitangeboten in der Umgebung,Hotels mit Freizeitangeboten in der Umgebung,Hotel,Hotels,property_type,Hotel_Freizeit
+familybeach,Hotel in der Nähe eines familienfreundlichen Strandes,Hotels in der Nähe von familienfreundlichen Stränden,Hotel,Hotels,property_type,Hotel_Fam_Stran
+fireplace,Hotel mit Kamin,Hotels mit Kaminen,Hotel,Hotels,property_type,Hotel_Kamin
+freeparking,Hotel mit kostenlosem Parkplatz,Hotels mit kostenlosem Parkplatz,Hotel,Hotels,property_type,Hotel_Frei_Park
+freeinternet,Hotel mit kostenlosem Internet,Hotels mit kostenlosem Internet,Hotel,Hotels,property_type,Hotel_Frei_WLAN
+freewifi,Hotel mit kostenlosem WLAN,Hotels mit kostenlosem WLAN,Hotel,Hotels,property_type,Hotel_Frei_WLAN
+hottub,Hotel mit Whirlpool,Hotels mit Whirlpool,Hotel,Hotels,property_type,Hotel_Whirlpool
+iceskating,Hotel mit Eislaufen in der Umgebung,Hotels mit Eislaufen in der Umgebung,Hotel,Hotels,property_type,Hotel_Eislaufen
+kitchen,Hotel mit Küche,Hotels mit Küchen,Hotel,Hotels,property_type,Hotel_Küche
+microwave,Hotel mit Mikrowelle,Hotels mit Mikrowellen,Hotel,Hotels,property_type,Hotel_Mikrowell
+monuments,Hotel in der Nähe von Denkmälern,Hotels in der Nähe von Denkmälern,Hotel,Hotels,property_type,Hotel_Denkmäler
+mountain,Hotel in Bergnähe,Hotels in Bergnähe,Hotel,Hotels,property_type,Hotel_Berge
+golf,Hotel in der Nähe von einem Golfplatz,Hotels in der Nähe von Golfplätzen,Hotel,Hotels,property_type,Hotel_Nähe_Golf
+offer,Hotelangebot,Hotelangebote,Hotel,Hotels,property_type,Hotel_Angebote
+parking,Hotel mit Parkplatz,Hotels mit Parkplatz,Hotel,Hotels,property_type,Hotel_Parkplatz
+pebblebeach,Hotel in der Nähe von Kiesstränden,Hotels in der Nähe von Kiesstränden,Hotel,Hotels,property_type,Hotel_Kies
+price,Hotelpreis,Hotelpreise,Hotel,Hotels,property_type,Hotel_Preise
+promo,Hotelangebot,Hotelangebote,Hotel,Hotels,property_type,Hotel_Angebote
+rating,Hotelbewertung,Hotelbewertungen,Hotel,Hotels,property_type,Hotel_Bewertung
+skydiving,Hotel mit Fallschirmspringen der Nähe,Hotels mit Fallschirmspringen der Nähe,Hotel,Hotels,property_type,HotelFallschirm
+snowboarding,Hotel mit Snowboarding in der Nähe,Hotels mit Snowboarding in der Nähe,Hotel,Hotels,property_type,Hotel_Snowboard
+stay,Hotelaufenthalt,Hotelaufenthalte,Hotel,Hotels,property_type,HotelAufenthalt
+hotel|suites,Hotelsuite,Hotelsuites,Hotelsuite,Hotelsuites,property_type,Hotel_Suites
+booking|hotel|suites,Hotelsuite,Hotelsuites,Hotelsuite,Hotelsuites,property_type,Hotel_Suites
+themepark,Hotel in der Nähe von Themenparks,Hotels in der Nähe von Themenparks,Hotel,Hotels,property_type,Hotel_Park
+volcanoes,Hotel in der Nähe von Vulkanen,Hotels in der Nähe von Vulkanen,Hotel,Hotels,property_type,Hotel_Vulkane
+waterskiing,Hotel mit Wasserkifahren in der Nähe,Hotels mit Wasserkifahren in der Nähe,Hotel,Hotels,property_type,Hotel_Wasserski
+waterfalls,Hotel in der Nähe von Wasserfällen,Hotels in der Nähe von Wasserfällen,Hotel,Hotels,property_type,Hotel_Wasserfall
+waterpark,Hotel in der Nähe von Wasserparks,Hotels in der Nähe von Wasserparks,Hotel,Hotels,property_type,Hotel_Wasserpark
+cafes,Hotel mit Cafe,Hotels mit Cafes,Hotel,Hotels,property_type,Hotel_mit_Cafe
+fitnesscenter,Hotel mit Fitnessbereich,Hotels mit Fitnessbereichen,Hotel,Hotels,property_type,Hotel_Fitness
+petfriendly,Haustierfreundliches Hotel,Haustierfreundliche Hotels,Hotel,Hotels,property_type,Hotels
+pet_friendly,Haustierfreundliches Hotel,Haustierfreundliche Hotels,Hotel,Hotels,property_type,Hotels
+pool,Hotel in der Nähe von einem Pool,Hotels mit Pool,Hotel,Hotels,property_type,Hotel_mit_Pool
+view,Hotel mit Aussicht,Hotels mit Aussichten,Hotel,Hotels,property_type,Hotels
+accommodation|hotel,Hotelunterkunft,Hotelunterkunft,Hotelunterkunft,Hotelunterkunft,property_type,Hotelunterkunft
+babyshower,Hotel für Babyparties,Hotels für Babyparties,Hotel,Hotels,property_type,HotelBabyparty
+basketball,Hotel für Basketballfans,Hotels für Basketballfans,Hotel,Hotels,property_type,HotelBasketball
+bungeejumping,Hotel mit Bungee-Jumping in der Nähe,Hotels mit Bungee-Jumping in der Nähe,Hotel,Hotels,property_type,HotelBungeeJump
+coffeemaker,Hotel mit Kaffeemaschine,Hotels mit Kaffeemaschinen,Hotel,Hotels,property_type,HotelKaffee
+comparison,Hotelvergleich,Hotelvergleiche,Hotel,Hotels,property_type,HotelVergleich
+conferencecenter,Hotel mit Konferenzzentrum,Hotels mit Konferenzzentren,Hotel,Hotels,property_type,HotelKonZentrum
+ecotourism,Hotel mit Ökotourismus in der Umgebung,Hotels mit Ökotourismus in der Umgebung,Hotel,Hotels,property_type,HotelÖkotourist
+electrickettle,Hotel mit Wasserkocher,Hotels mit Wasserkochern,Hotel,Hotels,property_type,HotelWasserkoch
+excursions,Hotel mit Ausflügen,Hotels mit Ausflügen,Hotel,Hotels,property_type,HotelAusflüge
+hotsprings,Hotel in der Nähe von heißen Quellen,Hotels in der Nähe von heißen Quellen,Hotel,Hotels,property_type,HotelHeißQuelle
+indoorpool,Hotel mit Innenpool,Hotels mit Innenpool,Hotel,Hotels,property_type,HotelInnenpool
+naturalparks,Hotel in der Nähe von Naturparks,Hotels in der Nähe von Naturparks,Hotel,Hotels,property_type,HotelNaturpark
+northernlights,Hotel mit Blick auf das Nordlicht,Hotels mit Blick auf das Nordlicht,Hotel,Hotels,property_type,HotelNordlicht
+promotion,Hotelangebot,Hotelangebote,Hotel,Hotels,property_type,Hotelangebote
+publictransport,Hotel mit öffentlichen Verkehrsmitteln in der Nähe,Hotels mit öffentlichen Verkehrsmitteln in der Nähe,Hotel,Hotels,property_type,HotelÖPNV
+recreation,Hotel mit Erholungsangeboten in der Nähe,Hotels mit Erholungsangeboten in der Nähe,Hotel,Hotels,property_type,HotelErholung
+restaurant,Hotel mit Restaurant,Hotels mit Restaurants,Hotel,Hotels,property_type,HotelRestaurant
+rockybeach,Hotel in der Nähe von felsigen Stränden,Hotels in der Nähe von felsigen Stränden,Hotel,Hotels,property_type,HotelFelsStrand
+rollerskating,Hotel mit Rollschuhlaufen in der Nähe,Hotels mit Rollschuhlaufen in der Nähe,Hotel,Hotels,property_type,HotelRollschuh
+roomservice,Hotel mit Zimmerservice,Hotels mit Zimmerservice,Hotel,Hotels,property_type,HotelZimmerserv
+hotel,Hotel,Hotels,Hotel,Hotels,property_type,Hotels
+hotels,Hotel,Hotels,Hotel,Hotels,property_type,Hotels
+downtown,Hotel im Zentrum,Hotels im Zentrum,Hotel,Hotels,property_type,Hotels_Zentrum
+airport,Hotel in der Nähe vom Flughafen,Hotels in der Nähe vom Flughafen,Hotel,Hotels,property_type,HotelsFlughafen
+dancing,Hotel mit Tanzmöglichkeiten in der Nähe,Hotels mit Tanzmöglichkeiten in der Nähe,Hotel,Hotels,property_type,Hotels
+booking,Hotel buchen,Hotels buchen,Hotel,Hotels,property_type,HotelsBuchung
+chinatown,Hotel in Chinatown,Hotels in Chinatown,Hotel,Hotels,property_type,HotelsChinatown
+islands,Hotel auf einer Insel,Hotels auf Inseln,Hotel,Hotels,property_type,Hotels_Inseln
+jungle,Hotel im Dschungel,Hotels in Dschungeln,Hotel,Hotels,property_type,HotelsDschungel
+lake,Hotel am See,Hotels an Seen,Hotel,Hotels,property_type,Hotels_See
+rainforest,Hotel im Regenwald,Hotels in Regenwäldern,Hotel,Hotels,property_type,HotelsRegenwald
+river,Hotel am Fluss,Hotels an Flüssen,Hotel,Hotels,property_type,Hotels_Fluss
+benefit,Hotelvorteil,Hotelvorteile,Hotel,Hotels,property_type,Hotels_Vorteil
+benefits,Hotelvorteil,Hotelvorteile,Hotel,Hotels,property_type,Hotels_Vorteil
+near,Hotel in der Nähe,Hotels in der Nähe,Hotel,Hotels,property_type,Hotels_Nähe
+booking|hotel,Hotel buchen in,Hotels buchen in,Hotel,Hotels,property_type,Hotels_Buchen
+airconditioning,Hotel mit Klimaanlage,Hotels mit Klimaanlage,Hotel,Hotels,property_type,Hotels_Klima
+art,Hotel in der Nähe von Kunst,Hotels in der Nähe von Kunstgalerien und Museen,Hotel,Hotels,property_type,Hotels_Kunst
+balcony,Hotel mit Balkon,Hotels mit Balkonen,Hotel,Hotels,property_type,Hotels_Balkon
+banquet,Hotel für Bankett,Hotels für Bankette,Hotel,Hotels,property_type,Hotels_Bankette
+barbecue,Hotel mit Grillplatz in der Nähe,Hotels mit Grillplatz in der Nähe,Hotel,Hotels,property_type,Hotels_Grillen
+bargain|hotel,Hotel-Schnäppchen,Hotels Schnäppchen,Hotel,Hotels,property_type,Schnäppchen
+baseball,Hotel für Baseballfans,Hotels für Baseballfans,Hotel,Hotels,property_type,Hotels_Baseball
+biking,Hotel mit Fahrradstrecken in der Nähe,Hotels mit Fahrradstrecken in der Nähe,Hotel,Hotels,property_type,Hotels_Fahrrad
+boating,Hotel mit Schifffahrten in der Nähe,Hotels mit Schifffahrten in der Nähe,Hotel,Hotels,property_type,Hotels_Schiffe
+bowling,Hotel mit Bowlingbahn in der Nähe,Hotels mit Bowlingbahnen in der Nähe,Hotel,Hotels,property_type,Hotels_Bowling
+buffet,Hotel mit Buffet,Hotels mit Buffets,Hotel,Hotels,property_type,Hotels_Buffet
+business,Hotel für Geschäftsreise,Hotels für Geschäftsreisen,Hotel,Hotels,property_type,Hotel_Geschäft
+canoeing,Hotel mit Kanufahren in der Nähe,Hotels mit Kanufahren in der Nähe,Hotel,Hotels,property_type,Hotels_Kanu
+castle,Hotel in der Nähe von einem Schloss,Hotels in der Nähe von Schlössern,Hotel,Hotels,property_type,Hotels_Schloss
+caveexploring,Hotel in der Nähe von Höhlen,Hotels in der Nähe von Höhlen,Hotel,Hotels,property_type,Hotel_Höhlen
+cheese,Hotel für Käseliebhaber,Hotels für Käseliebhaber,Hotel,Hotels,property_type,Hotels_Käse
+churches,Hotel in der Nähe einer Kirche,Hotels in der Nähe von Kirchen,Hotel,Hotels,property_type,Hotels_Kirchen
+cocktails,Hotel in der Nähe einer Cocktailbar,Hotels in der Nähe von Cocktailbars,Hotel,Hotels,property_type,Hotels_Cocktail
+coffee,Hotel mit Kaffee,Hotels mit Kaffee,Hotel,Hotels,property_type,Hotel_Kaffee
+couple,Hotel für Paare,Hotels für Paare,Hotel,Hotels,property_type,Hotels_Paare
+culture,Hotel in der Nähe von Kulturstätten,Hotels in der Nähe von Kulturstätten,Hotel,Hotels,property_type,Hotels_Kultur
+design,Einzigartig designte Hotels,Einzigartig designte Hotels,Hotel,Hotels,property_type,Hotels_Design
+dining,Hotel mit gastronomischen Angebot,Hotels mit gastronomischen Angebot,Hotel,Hotels,property_type,Hotels_Gastro
+diving,Hotel in der Nähe von Tauchplätzen,Hotels in der Nähe von Tauchplätzen,Hotel,Hotels,property_type,Hotels_Tauchen
+dolphins,Hotel in der Nähe von Delfinbeobachtungen,Hotels in der Nähe von Delfinbeobachtungen,Hotel,Hotels,property_type,Hotels_Delfine
+easter,Hotel für die Osterzeit,Hotels für die Osterzeit,Hotel,Hotels,property_type,Hotels_Ostern
+event,Hotel für Veranstaltungen,Hotels für Veranstaltungen,Hotel,Hotels,property_type,Hotels_Veranstaltungen
+ferry,Hotel in der Nähe einer Fähre,Hotels in der Nähe von Fähren,Hotel,Hotels,property_type,Hotels_Fähren
+fishing,Hotel in der Nähe von Angelgewässern,Hotels in der Nähe von Angelgewässern,Hotel,Hotels,property_type,Hotels_Angeln
+flowers,Hotel in der Nähe von Blumengärten,Hotels in der Nähe von Blumengärten,Hotel,Hotels,property_type,Hotels_Blumen
+football,Hotel für Footballfans,Hotels für Footballfans,Hotel,Hotels,property_type,Hotels_Football
+forests,Hotel in der Nähe von Wäldern,Hotels in der Nähe von Wäldern,Hotel,Hotels,property_type,Hotel_Wälder
+refrigerator,Hotel mit Kühlschrank,Hotels mit Kühlschränken,Hotel,Hotels,property_type,Kühlschrank
+friendlypeople,Hotel mit netten Leuten,Hotels mit netten Leuten,Hotel,Hotels,property_type,Hotels_Nett
+gardens,Hotel in der Nähe von Gärten,Hotels in der Nähe von Gärten,Hotel,Hotels,property_type,Hotel_Gärten
+glaciers,Hotel in der Nähe von Gletschern,Hotels in der Nähe von Gletschern,Hotel,Hotels,property_type,Hotels_Glestscher
+hiking,Hotel in der Nähe von Wandermöglichkeiten,Hotels in der Nähe von Wandermöglichkeiten,Hotel,Hotels,property_type,Hotels_Wandern
+hockey,Hotel für Hockeyfans,Hotels für Hockeyfans,Hotel,Hotels,property_type,Hotels_Hockey
+holiday,Hotel für die Feiertage,Hotels für die Feiertage,Hotel,Hotels,property_type,Hotels_Feiertag
+hunting,Hotel in der Nähe von Jadgmöglichkeiten,Hotels in der Nähe von Jadgmöglichkeiten,Hotel,Hotels,property_type,Hotels_Jagd
+internet,Hotel mit Internet,Hotels mit Internet,Hotel,Hotels,property_type,Hotels_Internet
+jacuzzi,Hotel mit Jacuzzi,Hotels mit Jacuzzis,Hotel,Hotels,property_type,Hotels_Jacuzzi
+jazz,Hotel in der Nähe von Jazzaufführungen,Hotels in der Nähe von Jazzaufführungen,Hotel,Hotels,property_type,Hotels_Jazz
+kayaking,Hotel in der Nähe von Kajaktouren,Hotels in der Nähe von Kajaktouren,Hotel,Hotels,property_type,Hotels_Kajak
+kitchenette,Hotel mit Kochnische,Hotels mit Kochnischen,Hotel,Hotels,property_type,Hotels_Küche
+kitesurfing,Hotel in der Nähe von Kitesurfen,Hotels in der Nähe von Kitesurfen,Hotel,Hotels,property_type,Hotels_Kitesurf
+laundryfacilities,Hotel mit Wäscherei,Hotels mit Wäschereien,Hotel,Hotels,property_type,Hotels_Wäsche
+lgbtfriendly,LGBT-freundliches Hotel,LGBT-freundliche Hotels,Hotel,Hotels,property_type,Hotels_LGBT
+library,Hotel in der Nähe einer Bibliothek,Hotels in der Nähe von Bibliotheken,Hotel,Hotels,property_type,Hotels_Bücherei
+marina,Hotel in der Nähe des Jachthafens,Hotels in der Nähe des Jachthafens,Hotel,Hotels,property_type,Hotel_Hafen
+massage,Hotel mit Spa,Hotels mit Spas,Hotel,Hotels,property_type,Hotels_Massage
+museums,Hotel in der Nähe von Museen,Hotels in der Nähe von Museen,Hotel,Hotels,property_type,Hotels_Museen
+musicals,Hotel in der Nähe eines Musiktheaters,Hotels in der Nähe von Musiktheatern,Hotel,Hotels,property_type,Hotels_Musicals
+nature,Hotel in der Nähe der Natur,Hotels in der Nähe der Natur,Hotel,Hotels,property_type,Hotels_Natur
+hotel|near,Hotel in der Nähe von,Hotels in der Nähe von,Hotel,Hotels,property_type,Hotels_Nähe
+hotel|nearme,Hotel in Ihrer Nähe,Hotels in Ihrer Nähe,Hotel,Hotels,property_type,Hotels
+zoo,Hotel in der Nähe des Zoos,Hotels in der Nähe von Zoos,Hotel,Hotels,property_type,Hotels_nahe_Zoo
+nearby,Hotels in der Nähe,Hotels in der Nähe,Hotel,Hotels,property_type,Hotels_Nahe
+nosmokingpolicy,Hotel mit Rauchverbot,Hotels mit Rauchverbot,Hotel,Hotels,property_type,Rauchverbot
+opera,Hotel in der Nähe der Oper,Hotels in der Nähe von Opern,Hotel,Hotels,property_type,Hotels_Oper
+outdoorpool,Hotel mit Außenpool,Hotels mit Außenpool,Hotel,Hotels,property_type,Hotel_Außenpool
+palace,Hotel in der Nähe von Palästen,Hotels in der Nähe von Palästen,Hotel,Hotels,property_type,Hotel_Paläste
+patio,Hotel mit Innenhof,Hotels mit Innenhöfen,Hotel,Hotels,property_type,Hotels
+poolsidebar,Hotel mit Poolbar,Hotels mit Poolbars,Hotel,Hotels,property_type,Hotels_Poolbar
+port,Hotel in der Nähe von Häfen,Hotels in der Nähe von Häfen,Hotel,Hotels,property_type,Hotels_Häfen
+rafting,Hotel in der Nähe von Raftingmöglichkeiten,Hotels in der Nähe von Raftingmöglichkeiten,Hotel,Hotels,property_type,Hotels_Rafting
+rowing,Hotel in der Nähe von Rudermöglichkeiten,Hotels in der Nähe von Rudermöglichkeiten,Hotel,Hotels,property_type,Hotels_Rudern
+running,Hotel in der Nähe von Laufstrecken,Hotels in der Nähe von Laufstrecken,Hotel,Hotels,property_type,Hotels_Laufen
+scubadiving,Hotel in der Nähe von Möglichkeiten zum Gerätetauchen,Hotels in der Nähe von Möglichkeiten zum Gerätetauchen,Hotel,Hotels,property_type,Hotels_Tauchen
+seafood,Hotel in der Nähe mit Essen von Fisch und Meeresfrüchten,Hotels in der Nähe mit Essen von Fisch und Meeresfrüchten,Hotel,Hotels,property_type,Hotels_Fisch
+shopping,Hotel in der Nähe von Einkaufsmöglichkeiten,Hotels in der Nähe von Einkaufsmöglichkeiten,Hotel,Hotels,property_type,Hotels_Einkauf
+sightseeing,Hotel in der Nähe von Sightseeing-Möglichkeiten,Hotels in der Nähe von Sightseeing-Möglichkeiten,Hotel,Hotels,property_type,Hotels_Sightsee
+ski,Hotel in der Nähe von Skimöglichkeiten,Hotels in der Nähe von Skimöglichkeiten,Hotel,Hotels,property_type,Hotels_Ski
+sledding,Hotel in der Nähe von Rodelbergen,Hotels in der Nähe von Rodelbergen,Hotel,Hotels,property_type,Hotels_Rodeln
+smoking,Hotel das Rauchen erlaubt,Hotels die Rauchen erlauben,Hotel,Hotels,property_type,Hotels_Rauchen
+snowshoeing,Hotel in der Nähe von Schneeschuhwanderwegen,Hotels in der Nähe von Schneeschuhwanderwegen,Hotel,Hotels,property_type,Hotels_Schnee
+soccer,Hotel für Fußballfans,Hotels für Fußballfans,Hotel,Hotels,property_type,Hotels_Fußball
+sports,Hotel für Sportfans,Hotels für Sportfans,Hotel,Hotels,property_type,Hotels_Sport
+stadium,Hotel in der Nähe des Stadiums,Hotels in der Nähe des Stadiums,Hotel,Hotels,property_type,Hotels_Stadium
+sunnyweather,Hotel mit sonnigem Wetter,Hotels mit sonnigem Wetter,Hotel,Hotels,property_type,Hotels_Sonnig
+sunrise,Hotel mit Blick auf den Sonnenaufgang,Hotels mit Blick auf den Sonnenaufgang,Hotel,Hotels,property_type,Sonnenaufgang
+sunsets,Hotel mit Blick auf den Sonnenuntergang,Hotels mit Blick auf den Sonnenuntergang,Hotel,Hotels,property_type,Sonnenuntergang
+surfing,Hotel in der Nähe von Surfmöglichkeiten,Hotels in der Nähe von Surfmöglichkeiten,Hotel,Hotels,property_type,Hotels_Surfen
+swimming,Hotel in der Nähe von Schwimmmöglichkeiten,Hotels in der Nähe von Schwimmmöglichkeiten,Hotel,Hotels,property_type,Hotels_Schwimmen
+temples,Hotel in der Nähe von Tempeln,Hotels in der Nähe von Tempeln,Hotel,Hotels,property_type,Hotels_Tempel
+tennis,Hotel für Tennisfans,Hotels für Tennisfans,Hotel,Hotels,property_type,Hotels_Tennis
+terrace,Hotel mit Terrassen,Hotels mit Terrassen,Hotel,Hotels,property_type,Hotels_Terrasse
+theater,Hotel in der Nähe von Theatern,Hotels in der Nähe von Theatern,Hotel,Hotels,property_type,Hotels_Theater
+tonight,Hotel für die Nacht,Hotels für die Nacht,Hotel,Hotels,property_type,Hotels_Nacht
+unescosite,Hotel in der Nähe von Unesco-Kulturstätten,Hotels in der Nähe von Unesco-Kulturstätten,Hotel,Hotels,property_type,Hotels_Unesco
+walking,Hotel in einem begehbaren Bereich,Hotels in einem begehbaren Bereich,Hotel,Hotels,property_type,Hotels_Gehen
+wedding,Hotel für Hochzeiten,Hotels für Hochzeiten,Hotel,Hotels,property_type,Hotels_Hochzeit
+weekend,Hotel für das Wochenende,Hotels für das Wochenende,Hotel,Hotels,property_type,Hotels
+wellness,Hotel mit Wellnesscenter,Hotels mit Wellnesscentern,Hotel,Hotels,property_type,Hotels_Wellness
+wildlife,Hotel in der Nähe von Wildtierbeobachtungen,Hotels in der Nähe von Wildtierbeobachtungen,Hotel,Hotels,property_type,Hotels_Wildtier
+windsurfing,Hotel in der Nähe von Windsurfmöglichkeiten,Hotels in der Nähe von Windsurfmöglichkeiten,Hotel,Hotels,property_type,Hotels_Windsurf
+winery,Hotel in der Nähe von Weingütern,Hotels in der Nähe von Weingütern,Hotel,Hotels,property_type,Hotel_Weingüter
+bar,Hotel mit Bar,Hotels mit Bars,Hotel,Hotels,property_type,Hotels_Mit_Bar
+television,Hotel mit Fernsehen,Hotels mit Fernsehen,Hotel,Hotels,property_type,Hotels_mit_TV
+yoga,Hotel in der Nähe von einem Yogastudio,Hotels in der Nähe von Yogastudios,Hotel,Hotels,property_type,Hotels_Yoga
+sandbeach,Hotel in der Nähe von Sandstränden,Hotels in der Nähe von Sandstränden,Hotel,Hotels,property_type,HotelSandstrand
+beachview,Hotel mit Blick auf den Strand,Hotels mit Blick auf den Strand,Hotel,Hotels,property_type,HotelsStrand
+sea,Hotel am Meer,Hotels am Meer,Hotel,Hotels,property_type,HotelsamMeer
+cathedral,Hotel in der Nähe einer Kathedrale,Hotels in der Nähe von Kathedralen,Hotel,Hotels,property_type,HotelsKathedral
+childcare,Hotel mit Kinderbetreuung,Hotels mit Kinderbetreuung,Hotel,Hotels,property_type,HotelsKinder
+coralreefs,Hotel in der Nähe von Korallenriffen,Hotels in der Nähe von Korallenriffen,Hotel,Hotels,property_type,HotelsRiff
+dvdplayer,Hotel mit DVD-Player,Hotels mit DVD-Playern,Hotel,Hotels,property_type,HotelsDVDPlayer
+segwaytours,Hotel mit Segway-Tour,Hotels mit Segway-Touren,Hotel,Hotels,property_type,HotelSegwayTour
+festivals,Hotel für Festivals,Hotels für Festivals,Hotel,Hotels,property_type,HotelsFestivals
+group,Hotel für Gruppe,Hotels für Gruppen,Hotel,Hotels,property_type,HotelsfürGruppe
+horseracing,Hotel für Fans von Pferderennen,Hotels für Fans von Pferderennen,Hotel,Hotels,property_type,Pferderennen
+horsebackriding,Hotel in der Nähe von Reitmöglichkeiten,Hotels in der Nähe von Reitmöglichkeiten,Hotel,Hotels,property_type,Hotels_Reiten
+innertubing,Hotel in der Nähe von Reifenrutschen,Hotels in der Nähe von Reifenrutschen,Hotel,Hotels,property_type,HotelsRutschen
+lazyriver,Hotel mit Stömungskanal,Hotels mit Stömungskanälen,Hotel,Hotels,property_type,Strömungskanal
+livemusic,Hotel mit Livemusik,Hotels mit Livemusik,Hotel,Hotels,property_type,HotelsLivemusik
+ruins,Hotel in der Nähe von Ruinen,Hotels in der Nähe von Ruinen,Hotel,Hotels,property_type,HotelsNahRuinen
+newyear,Hotel für Reisen an Neujahr,Hotels für Reisen an Neujahr,Hotel,Hotels,property_type,HotelsNeujahr
+nightclub,Hotel in der Nähe von Nachtclubs,Hotels in der Nähe von Nachtclubs,Hotel,Hotels,property_type,HotelsNachtclub
+snorkeling,Hotel in der Nähe von Schnorchelmöglichkeiten,Hotels in der Nähe von Schnorchelmöglichkeiten,Hotel,Hotels,property_type,HotelSchnorcheln
+snowmobileriding,Hotel in der Nähe von Schneemobilfahrten,Hotels in der Nähe von Schneemobilfahrten,Hotel,Hotels,property_type,HotelSchneemobil
+snowtubing,Hotel mit Snowtubing in der Nähe,Hotels mit Snowtubing in der Nähe,Hotel,Hotels,property_type,HotelSnowtubing
+nudebeach,Hotel in der Nähe von FKK-Stränden,Hotels in der Nähe von FKK-Stränden,Hotel,Hotels,property_type,HotelsFKKStrand
+oceanview,Hotel mit Meerblick,Hotels mit Meerblick,Hotel,Hotels,property_type,HotelsMeerblick
+overwater,Hotel über Wasser,Hotels über Wasser,Hotel,Hotels,property_type,HotelÜberWasser
+paddleboarding,Hotel mit Paddleboarding in der Nähe,Hotels mit Paddleboarding in der Nähe,Hotel,Hotels,property_type,HotelsPadBoard
+fitnesscenter|hotel|nearme|spa,Hotel mit Spa und Fitnessbereich in Ihrer Nähe,Hotels mit Spa und Fitnessbereich in Ihrer Nähe,Hotel,Hotels,property_type,HotelSpaFitness
+rockclimbing,Hotel mit Bergsteigen in der Nähe,Hotels mit Bergsteigen in der Nähe,Hotel,Hotels,property_type,HotelsKlettern
+scenery,Hotel mit Landschaft,Hotels mit Landschaft,Hotel,Hotels,property_type,HotelLandschaft
+steamroom,Hotel mit Dampfbad,Hotels mit Dampfbädern,Hotel,Hotels,property_type,HotelsDampfbad
+swimupbar,Hotel mit Bar im Pool,Hotels mit Bars im Pool,Hotel,Hotels,property_type,HotelsBarImPool
+stargazing,Hotel mit Sternenbeobachtung in der Nähe,Hotels mit Sternenbeobachtung in der Nähe,Hotel,Hotels,property_type,HotelSterne
+transportationservices,Hotel mit Transferservice,Hotels mit Transferservice,Hotel,Hotels,property_type,HotelsTransfer
+wakeboarding,Hotel mit Wakeboarding in der Nähe,Hotels mit Wakeboarding in der Nähe,Hotel,Hotels,property_type,HotelsWakeBoard
+washerdryer,Hotel mit Waschmaschine und Wäschetrockner,Hotels mit Waschmaschine und Wäschetrockner,Hotel,Hotels,property_type,HotelsWäsche
+sauna,Hotel mit Sauna,Hotels mit Saunen,Hotel,Hotels,property_type,HotelsmitSauna
+wifi,Hotel mit WLAN,Hotels mit WLAN,Hotel,Hotels,property_type,HotelsmitWLAN
+ziplining,Hotel mit Seilrutsche in der Nähe,Hotels mit Seilrutschen in der Nähe,Hotel,Hotels,property_type,HotelsZipline
+thanksgiving,Hotel für Thanksgiving-Reisen,Hotels für Thanksgiving-Reisen,Hotel,Hotels,property_type,HotelThanksgvng
+university,Hotel in der Nähe der Universität,Hotels in der Nähe von Universitäten,Hotel,Hotels,property_type,HotelUniversität
+valentinesday,Hotel für Valentinstag,Hotels für Valentinstag,Hotel,Hotels,property_type,HotelValentins
+waterslide,Hotel mit Wasserrutsche,Hotels mit Wasserrutschen,Hotel,Hotels,property_type,HotelRutsche
+houseboat,Hausboot,Hausboote,Hausboot,Hausboote,property_type,Hausboote
+housekeeping,Hotel mit Zimmermädchen,Hotels mit Zimmermädchen,Hotel,Hotels,property_type,Zimmermädchen
+ideal,Ideales Hotel,Ideale Hotels,Hotel,Hotels,property_type,Ideal_Hotels
+indoorskiing,Hotel in der Nähe von Skihalle,Hotels in der Nähe von Skihalle,Hotel,Hotels,property_type,Skihalle
+inexpensive,Preiswertes Hotel,Preiswerte Hotels,Hotel,Hotels,property_type,Günstige_Hotels
+inn,Inn,Inns,Inn,Inns,property_type,Inns
+lakeview,Hotel mit Seeblick,Hotels mit Seeblick,Hotel,Hotels,property_type,SeeblickHotels
+accommodation|deal|lastminute,Last-Minute-Angebot für Unterkunft,Last-Minute-Angebote für Unterkunft,Unterkunft,Unterkünfte,property_type,LasMinUnterkAng
+deal|lastminute|suites,Angebot für Suites Last Minute,Angebote für Suites Last Minute,Suite,Suiten,property_type,LasMinSuiteAnge
+accommodation|lastminute,Last Minute Unterkunft,Last Minute Unterkunft,Unterkunft,Unterkünfte,property_type,Last_Min_Unterk
+booking|hotel|lastminute,Last Minute Hotel,Last Minute Hotels,Hotel,Hotels,property_type,Last_Min_Hotels
+deal|lastminute|resort,Last-Minute-Angebot für Resorts,Last-Minute-Angebote für Resorts,Resort,Resorts,property_type,LastMinAngResor
+lastminute,Last Minute Hotel,Last Minute Hotels,Hotel,Hotels,property_type,LastMinuteHotel
+hotel|lastminute,Last Minute Hotel,Last Minute Hotels,Hotel,Hotels,property_type,LastMinuteHotel
+leisure,Freizeithotel,Freizeithotels,Hotel,Hotels,property_type,Freizeithotel
+local,Regionales Hotel,Regionale Hotels,Hotel,Hotels,property_type,RegionaleHotels
+lodge,Lodge,Lodges,Lodge,Lodges,property_type,Lodges
+lodging,Unterkunft,Unterkunft,Unterkunft,Unterkunft,property_type,Unterkunft
+longhouse,Langhaus,Langhäuser,Langhaus,Langhäuser,property_type,Langhäuser
+accommodation|lowcost,Kostengünstige Unterkunft,Kostengünstige Unterkunft,Unterkunft,Unterkünfte,property_type,Günstige_Unterk
+lowcost,Kostengünstiges Hotel,Kostengünstige Hotels,Hotel,Hotels,property_type,Günstige_Hotels
+hotel|lowcost,Kostengünstiges Hotel,Kostengünstige Hotels,Hotel,Hotels,property_type,Günstige_Hotels
+luxury,Luxushotel,Luxushotels,Hotel,Hotels,property_type,Luxushotels
+member,Hotelangebot nur für Mitglieder,Hotelangebote nur für Mitglieder,Hotel,Hotels,property_type,Nur_Mitglieder
+motel,Motel,Motels,Motel,Motels,property_type,Motels
+onsen,Onsen,Onsen,Onsen,Onsen,property_type,Onsen
+pension,Pension,Pensionen,Pension,Pensionen,property_type,Pensionen
+popular,Beliebtes Hotel,Beliebte Hotels,Hotel,Hotels,property_type,Beliebte_Hotels
+pousada,Pousada,Pousadas,Pousada,Pousadas,property_type,Pousadas
+deal|hotel|lastminute,Last Minute Hotelangebot,Last Minute Hotelangebote,Hotel,Hotels,property_type,Hotelangebot
+hotel|lastminute|suites,Last Minute Hotelsuite,Last Minute Hotelsuites,Hotelsuite,Hotelsuites,property_type,KurzHotelsuite
+ranch,Ranch,Ranches,Ranch,Ranches,property_type,Ranches
+relaxing,Erholungshotel,Erholungshotels,Hotel,Hotels,property_type,Erholungshotels
+residence,Residenz,Residenzen,Residenz,Residenzen,property_type,Residenzen
+resort,Resort,Resorts,Resort,Resorts,property_type,Resorts
+resorts,Resort,Resorts,Resort,Resorts,property_type,Resorts
+riad,Riad,Riads,Riad,Riads,property_type,Riads
+romantic,Romantisches Hotel,Romantische Hotels,Hotel,Hotels,property_type,Romantikhotels
+room,Zimmer,Zimmer,Zimmer,Zimmer,property_type,Zimmer
+rvparking,Wohnmobilstellplatz,Wohnmobilstellplätze,Wohnmobilstellplatz,Wohnmobilstellplätze,property_type,Wohnmobilparks
+ryokan,Ryokan,Ryokan,Ryokan,Ryokan,property_type,Ryokan
+safarilodge,Safari Lodge,Safari Lodges,Safari Lodge,Safari Lodges,property_type,Safarilodges
+seaside,Hotel am Meer,Hotels am Meer,Hotel,Hotels,property_type,Hotels_am_Meer
+secluded,Abgelegenes Hotel,Abgelegene Hotels,Hotel,Hotels,property_type,Abgelegen_Hotel
+secret,Geheimes Hotel,Geheime Hotels,Hotel,Hotels,property_type,Geheime_Hotels
+shortterm,Kurzzeithotel,Kurzzeithotels,Hotel,Hotels,property_type,Kurzzeithotels
+skyscrapers,Hotel im Hochhaus,Hotels in Hochhäusern,Hotel,Hotels,property_type,HochhausHotel
+smalltown,Kleinstadthotel,Kleinstadthotels,Hotel,Hotels,property_type,Kleinstadthotel
+spa,Wellnesshotel,Wellnesshotels,Hotel,Hotels,property_type,Wellnesshotels
+staycation,Staycation-Hotel,Staycation-Hotels,Hotel,Hotels,property_type,StaycationHotel
+studio,Studio,Studios,Studio,Studios,property_type,Studios
+suite,Suite,Suiten,Suite,Suiten,property_type,Suiten
+suites,Suite,Suiten,Suite,Suiten,property_type,Suiten
+sustainable,Umweltfreundliches Hotel,Umweltfreundliche Hotels,Hotel,Hotels,property_type,Umwelt_Hotels
+tentalow,Zelthütte,Zelthütten,Zelthütte,Zelthütten,property_type,Zelthütten
+tent,Zelt,Zelte,Zelt,Zelte,property_type,Zelte
+best,Das beste Hotel,Die besten Hotels,Hotel,Hotels,property_type,Besten_Hotel
+hotel_best,Das beste Hotel,Die besten Hotels,Hotel,Hotels,property_type,Besten_Hotel
+top,Top Hotel,Top Hotels,Hotel,Hotels,property_type,Top_Hotels
+allinclusive|resort|top,Top All-inclusive-Resort,Top All-inclusive-Resorts,Resort,Resorts,property_type,TopAllIncResort
+traditional,Traditionshotel,Traditionshotels,Traditionshotel,Traditionshotels,property_type,Traditionell
+treehouse,Baumhaus,Baumhäuser,Baumhaus,Baumhäuser,property_type,Baumhäuser
+trendy,Trendhotel,Trendhotels,Hotel,Hotels,property_type,Trendhotels
+tropical,Tropisches Hotel,Tropische Hotels,Hotel,Hotels,property_type,Tropisch_Hotel
+urban,Stadthotel,Stadthotels,Hotel,Hotels,property_type,Stadthotels
+vacationrental,Ferienwohnung,Ferienwohnungen,Ferienwohnung,Ferienwohnungen,property_type,Ferienwohnungen
+villa,Villa,Villen,Villa,Villen,property_type,Villen
+whalewatching,Hotel in der Nähe von Whalewatching-Angeboten,Hotels in der Nähe von Whalewatching-Angeboten,Hotel,Hotels,property_type,Whale_Watching
+whitesandbeach,Hotel in der Nähe von weißen Sandstränden,Hotels in der Nähe von weißen Sandstränden,Hotel,Hotels,property_type,WeißeSandstrand
+deal|hotel|offer,Hotelangebot,Hotelangebote,Hotel,Hotels,property_type,Hotelangebote
+sameday,Hotel für die Nacht,Hotels für die Nacht,Hotel,Hotels,property_type,Hotels_Nacht
+same_day,Hotel für die Nacht,Hotels für die Nacht,Hotel,Hotels,property_type,Hotels_Nacht
+adult_only|all_inclusive|resort,Kinderfreies All-inclusive-Resort,Kinderfreie All-inclusive-Resorts,Resort,Resorts,property_type,AllInclResort
+coupon,Hotelgutschein,Hotelgutscheine,Hotel,Hotels,property_type,Hotel_Coupons
+riverview,Hotel mit Blick über den Fluss,Hotels mit Blick über den Fluss,Hotel,Hotels,property_type,Hotel_Fluss
+safari,Hotel mit Safaris,Hotels mit Safaris,Hotel,Hotels,property_type,Hotels_Safaris
+sailing,Hotel in der Nähe von Segelmöglichkeiten,Hotels in der Nähe von Segelmöglichkeiten,Hotel,Hotels,property_type,Hotels_Segeln
+sharks,Hotel mit Haifischbeobachtung,Hotels mit Haifischbeobachtung,Hotel,Hotels,property_type,Hotel_Haie
+sofabed,Hotel mit Schlafsofas,Hotels mit Schlafsofas,Hotel,Hotels,property_type,Hotels_Schlafsofa
+theatre,Hotel in der Nähe von Theatern,Hotels in der Nähe von Theatern,Hotel,Hotels,property_type,Hotels_Theater
+tours,Hotel mit Touren,Hotels mit Touren,Hotel,Hotels,property_type,Hotels_Touren
+travel,Hotel für die Reise,Hotels für die Reise,Hotel,Hotels,property_type,Hotels_Reise
+accommodation|deal|offer,Angebot für Unterkunft,Angebote für Unterkunft,Unterkunft,Unterkünfte,property_type,UnterkAngebote
+beach|resort,Resort in Strandnähe,Resorts in Strandnähe,Resort,Resorts,property_type,Resorts_Strand
+cheap|motel,Günstiges Motel,Günstige Motels,Motel,Motels,property_type,Guenstige_Motels
+best|stay,Bester Hotelaufenthalt,Beste Hotelaufenthalte,Hotel,Hotels,property_type,Beste_Hotels
+best|resort,Bestes Resort,Beste Resorts,Resort,Resorts,property_type,Beste_Resorts
+resort|spa,Resort mit Spa,Resorts mit Spas,Resort,Resorts,property_type,Spa_Resorts
+airport|parking,Hotel mit Parkplatz,Hotels mit Parkplatz,Hotel,Hotels,property_type,Flughafen_Parkplatz
+accommodation|petfriendly,Haustierfreundliche Unterkunft,Haustierfreundliche Unterkünfte,Unterkunft,Unterkünfte,property_type,Haustier_Unterk
+bedbreakfast|cheap,Cheap Bed and Breakfast,Günstige Bed and Breakfasts,Bed and Breakfast,Bed and Breakfasts,property_type,BedandBreakfast
+familyfriendly|resort,Familienfreundliches Resort,Familienfreundliche Resorts,Resort,Resorts,property_type,Familien_Resorts
+cheap|hostel,Günstiges Hostel,Günstige Hostels,Hostel,Hostels,property_type,Günstig_Hostels
+resort|ski,Ski-Resort,Ski-Resorts,Resort,Resorts,property_type,Ski_Resorts
+airport|cheap,Günstiges Hotel,Günstige Hotels,Hotel,Hotels,property_type,Flughafenhotels
+cheap|stay,Günstiger Hotelaufenthalt,Günstige Hotelaufenthalte,Hotel,Hotels,property_type,Günstiges_Hotel
+golf|resort,Resort mit Golf,Resorts mit Golf,Resort,Resorts,property_type,Golfresorts
+luxury|resort,Luxusresort,Luxusresorts,Resort,Resorts,property_type,Luxusresorts
+accommodation|luxury,Luxusunterkunft,Luxusunterkünfte,Unterkunft,Unterkünfte,property_type,Luxusunterk
+best|familyfriendly,Bestes familienfreundliches Hotel,Beste familienfreundliche Hotels,Hotel,Hotels,property_type,Beste_Fam_Hotels
+5star|resort,5-Sterne-Resort,5-Sterne-Resorts,Resort,Resorts,property_type,5-Sterne-Resorts
+pool|resort,Resort mit Pool,Resorts mit Pool,Resort,Resorts,property_type,Pool_Resorts
+economy,Economy-Hotel,Economy-Hotel,Hotel,Hotels,property_type,Economy-Hotels
+expensive,Teures Hotel,Teure Hotels,Hotel,Hotels,property_type,TeureHotels
+luxurious,Luxushotel,Luxushotels,Hotel,Hotels,property_type,Luxushotels
+mostexpensive,Teuerstes Hotel,Teuerste Hotels,Hotel,Hotels,property_type,TeureHotels

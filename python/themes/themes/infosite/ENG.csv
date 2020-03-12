@@ -1,0 +1,13 @@
+THEME,SINGULAR,PLURAL,SINGULAR_SHORT,PLURAL_SHORT,CATEGORY,PLURAL_URL
+default,Hotel,Hotels,,,property_type
+hotel,Hotel,Hotels,,,property_type
+apartment,Apartment,Apartments,,,property_type
+apart_hotel,Apart Hotel,Apart_Hotels,,,property_type
+bed_and_breakfast,B&B,Bed_&_Breakfast,,,property_type
+cabin,Cabin,Cabins,,,property_type
+condo,Condo,Condos,,,property_type
+guest_house,Guest_House,Guest_Houses,,,property_type
+hostel,Hostel,Hostels,,,property_type
+motel,Motel,Motels,,,property_type
+resort,Resort,Resorts,,,property_type
+villa,Villa,Villas,,,property_type

@@ -1,0 +1,12 @@
+THEME,SINGULAR,PLURAL,SINGULAR_SHORT,PLURAL_SHORT,CATEGORY,PLURAL_URL
+default,酒店,酒店,,,property_type,
+hotel,酒店,酒店,,,property_type,
+cheap,平價酒店,平價酒店,,,property_type,
+apartment,公寓,公寓,,,property_type,
+downtown,市中心酒店,市中心酒店,,,property_type,
+apart_hotel,公寓式酒店,公寓式酒店,,,property_type,
+bed_and_breakfast,民宿,民宿,,,property_type,
+condo,公寓,公寓,,,property_type,
+hostel,宿舍,宿舍,,,property_type,
+motel,汽車旅館,汽車旅館,,,property_type,
+resort,度假酒店,度假酒店,,,property_type,

@@ -1,0 +1,26 @@
+THEME,SINGULAR,PLURAL,SINGULAR_SHORT,PLURAL_SHORT,CATEGORY,PLURAL_URL
+default,Hotel,Hoteles,,,property_type,
+hotel,Hotel,Hoteles,,,property_type,
+hotels,Hotel,Hoteles,,,property_type,
+motel,Motel,Moteles,,,property_type,
+cheap,Hotel,Hoteles Baratos,,,property_type,
+hotel_cheap,Hotel,Hoteles Baratos,,,property_type,
+accommodation,Alojamiento,Alojamientos,,,property_type,
+accomodation,Alojamiento,Alojamientos,,,property_type,
+apartment,Apartamento,Apartamentos,,,property_type,
+aparthotel,Aparthotel,Aparthoteles,,,property_type,
+resort,Resort,Resorts,,,property_type,
+resorts,Resort,Resorts,,,property_type,
+condo,Condominio,Condominios,,,property_type,
+luxury,Hotel de Lujo,Hoteles de Lujo,,,property_type,
+hostel,Hostal,Hostales,,,property_type,
+all_inclusive,Hotel Todo Incluído,Hoteles Todo Incluído,,,property_type,Todo_Incluído
+hotel_all_inclusive,Hotel Todo Incluído,Hoteles Todo Incluído,,,property_type,Todo_Incluído
+all_inclusives,Hotel Todo Incluído,Hoteles Todo Incluído,,,property_type,Todo_Incluído
+downtown,Hotel,Hoteles,,,property_type,
+airport,Hotel,Hoteles,,,property_type,
+near,Hotel,Hoteles,,,property_type,
+lodging,Alojamiento,Alojamientos,,,property_type,
+3_star,Hotel de 3 Estrellas,Hoteles de 3 Estrellas,,,property_type,Hotel3Estrellas
+4_star,Hotel de 4 Estrellas,Hoteles de 4 Estrellas,,,property_type,Hotel4Estrellas
+5_star,Hotel de 5 Estrellas,Hoteles de 5 Estrellas,,,property_type,Hotel5Estrellas
